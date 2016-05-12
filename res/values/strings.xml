@@ -1,5 +1,12 @@
 <resources>
 
     <string name="app_name">activity-demo</string>
+    
+    <string name="btn_ok">确定</string>
+    
+    <string name="btn_cancel">取消</string>
+
+    <string name="input_tip">请输入你的名字</string>
+    
 
 </resources>
